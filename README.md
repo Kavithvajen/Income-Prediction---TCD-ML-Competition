@@ -3,7 +3,7 @@ Mandatory coursework submission for the module 'Machine Learning' during my M.Sc
 
 Some websites that aided/motivated me to try out the methods that I used are:
 
-https://leandeep.com/datalab-kaggle/data-preparation-exploration.html
+https://leandeep.com/datalab-kaggle/data-preparation-exploration.html <br>
 https://towardsdatascience.com/why-you-should-try-mean-encoding-17057262cd0
 https://towardsdatascience.com/all-about-categorical-variable-encoding-305f3361fd02
 https://towardsdatascience.com/handling-missing-values-in-machine-learning-part-1-dda69d4f88ca
